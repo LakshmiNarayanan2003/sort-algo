@@ -1,5 +1,5 @@
 # sort-algo
-Sorting algorithms are found here!
+Sorting & searching algorithms are found here!
 
 To learn every concept, this might help:
 # Insertion sort:
